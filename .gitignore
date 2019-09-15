@@ -5,6 +5,11 @@
 !*/cache/index.html
 !*/cache/.htaccess
 
+application/config/config.php
+application/config/database.php
+application/config/autoload.php
+
+
 user_guide_src/build/*
 user_guide_src/cilexer/build/*
 user_guide_src/cilexer/dist/*
